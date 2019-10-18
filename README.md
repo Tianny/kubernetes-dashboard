@@ -1,2 +1,2 @@
-# kubernetes-dashboard
-kubernetes-dashboard
+# kubernetes-dashboard config files
+kubernetes-dashboard 2.0 
